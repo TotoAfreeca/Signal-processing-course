@@ -3,7 +3,7 @@ Python notebooks created by me during the signal processing labs on my Universit
 Topics are in the files' names.
 
 Main Technologies I used and learned:
-Python
-Scipy package 
-Numpy
-matplotlib
+Python, 
+Scipy package,  
+Numpy, 
+matplotlib, 
